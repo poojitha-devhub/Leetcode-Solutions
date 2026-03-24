@@ -33,18 +33,6 @@ Solutions are automatically synced using **LeetHub**.
 
 ---
 
-## 🧠 Topics Covered
-
-* Arrays
-* Strings
-* Two Pointers
-* Hashing
-* Binary Search
-* Recursion
-* Sliding Window
-* Sorting
-
-More topics will be added as I continue solving problems.
 
 ---
 
