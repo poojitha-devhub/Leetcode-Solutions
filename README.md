@@ -26,9 +26,9 @@ Solutions are automatically synced using **LeetHub**.
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 24     |
-| 🟡 Medium  | 3      |
-| 🔴 Hard    | 0      |
+| Easy    | 24     |
+| Medium  | 3      |
+| Hard    | 0      |
 | **Total**  | **27** |
 
 ---
