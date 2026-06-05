@@ -20,18 +20,7 @@ Solutions are automatically synced using **LeetHub**.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sripoojitha02?theme=dark\&font=baloo)
 
----
 
-##  Current Progress
-
-| Difficulty | Solved |
-| ---------- | ------ |
-| Easy    | 24     |
-| Medium  | 3      |
-| Hard    | 0      |
-| **Total**  | **27** |
-
----
 
 
 ---
