@@ -10,19 +10,19 @@ Solutions are automatically synced using **LeetHub**.
 
 ---
 
-## 👩‍💻 LeetCode Profile
+## LeetCode Profile
 
-🔗 https://leetcode.com/u/sripoojitha02/
+ https://leetcode.com/u/sripoojitha02/
 
 ---
 
-## 📊 LeetCode Stats
+## LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sripoojitha02?theme=dark\&font=baloo)
 
 ---
 
-## 📈 Current Progress
+##  Current Progress
 
 | Difficulty | Solved |
 | ---------- | ------ |
@@ -36,13 +36,12 @@ Solutions are automatically synced using **LeetHub**.
 
 ---
 
-## 💻 Language Used
+##  Language Used
 
 * Java
 
 ---
-
-## 📂 Repository Structure
+##  Repository Structure
 
 Each problem has its own folder:
 
@@ -64,7 +63,7 @@ Each folder contains:
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 * Solve **300+ LeetCode problems**
 * Strengthen **problem solving skills**
@@ -73,7 +72,7 @@ Each folder contains:
 
 ---
 
-## ⚡ Tools Used
+##  Tools Used
 
 * LeetCode
 * Java
