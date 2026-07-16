@@ -7,7 +7,7 @@ class Solution {
                 stack.push(s.charAt(i));
             }
             else{
-                if(stack.size()==0){
+                if(stack.isEmpty()){
                     return false;
                 }
                 if((stack.peek()=='(' && s.charAt(i)==')') ||
@@ -20,6 +20,6 @@ class Solution {
                 }
             }
         }
-        return stack.size()==0;  
+        return stack.isEmpty();  
     }
 }
