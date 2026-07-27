@@ -14,17 +14,19 @@ public class Solution {
         if(head==null){
             return false;
         }
-        ListNode hare=head;//fast pointer
-        ListNode turtle=head;//slow pointer
-        while(hare!=null && hare.next!=null){
-            hare=hare.next.next;
-            turtle=turtle.next;
-            if(hare==turtle){
+        if(head == head.next){
+            return true;
+        }
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+            if(slow==fast){
                 return true;
             }
         }
         return false;
-
         
     }
 }
