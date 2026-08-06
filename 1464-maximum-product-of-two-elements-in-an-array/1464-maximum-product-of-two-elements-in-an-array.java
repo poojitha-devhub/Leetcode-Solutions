@@ -3,11 +3,11 @@ class Solution {
         int max=Integer.MIN_VALUE;
         int secondmax=Integer.MIN_VALUE;
         for(int i=0;i<nums.length;i++){
-            if(nums[i]>=max){
+            if(nums[i]>max){
                 secondmax=max;
                 max=nums[i];
             }
-            if(nums[i]>secondmax && nums[i]!=max){
+            else if(nums[i]>secondmax){
                 secondmax=nums[i];
             }
             
